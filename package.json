@@ -15,5 +15,9 @@
     "url": "https://github.com/KazemRamadan/codedbykazem/issues"
   },
   "homepage": "https://github.com/KazemRamadan/codedbykazem#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.18.0"
+  }
 }
